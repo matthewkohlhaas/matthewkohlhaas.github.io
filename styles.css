@@ -4,6 +4,7 @@
 body {
   text-align: center;
   font-family: arial, sans-serif;
+  font-size: 18px;
   background-color: #999999;
   background-image: url(files/back.jpg);
   background-repeat: repeat-x;
@@ -127,7 +128,7 @@ h3 {
   color: #FFFFFF;
 }
 
-#navbar a:hover {background-color: #191970}
+#navbar a:hover {background-color: #003399}
 
 #navbar a#current {color: #FFFFFF}
 
