@@ -84,7 +84,7 @@ h3 {
 #banner {
   width: 1000px;
   height: 508px;
-  margin-top: 50px;
+  margin-top: 60px;
   padding: 0px;
   background-color: #003366;
   background-image: url(files/banner.jpg);
@@ -92,12 +92,12 @@ h3 {
 
 #navbar {
   width: 1000px;
-  height: 50px;
+  height: 60px;
   position: fixed;
   padding: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #003366;
+  background-color: #002255;
 }
 
 #navbar p {
@@ -105,12 +105,12 @@ h3 {
   float: left;
   margin: 0px;
   padding: 20px;
-  padding-top: 13px;
-  padding-bottom: 13px;
+  padding-top: 14px;
+  padding-bottom: 14px;
   text-align: center;
   text-decoration: none;
   font-family: verdana;
-  font-size: 20px;
+  font-size: 24px;
   font-variant: small-caps;
   color: #EEEEEE;
 }
@@ -119,16 +119,16 @@ h3 {
   display: block;
   float: right;
   margin: 0px;
-  padding: 24px;
-  padding-top: 11px;
-  padding-bottom: 11px;
+  padding: 22px;
+  padding-top: 16px;
+  padding-bottom: 16px;
   text-align: center;
   text-decoration: none;
   font-size: 24px;
   color: #FFFFFF;
 }
 
-#navbar a:hover {background-color: #003399}
+#navbar a:hover {background-color: #003388}
 
 #navbar a#current {color: #FFFFFF}
 
