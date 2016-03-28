@@ -20,10 +20,10 @@ body {
   width: 100%;
   max-width: 1000px;
   min-width: 610px;
+  position: relative;
   box-sizing: border-box;
   margin: auto;
   margin-top: -20px;
-  position: relative;
   background-color: auto;
 }
 
@@ -68,7 +68,7 @@ body {
 
 .navbar {
   height: 56px;
-  width: 100%;
+  width: inherit;
   max-width: inherit;
   min-width: inherit;
   position: fixed;
